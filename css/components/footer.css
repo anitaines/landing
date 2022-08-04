@@ -1,0 +1,39 @@
+.footer-landing {
+  margin: 30px 0 0 0;
+  background-color: #2c2b2b;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.footer-landing ul {
+  list-style: none;
+}
+
+.footer-landing ul li{
+  display: inline;
+}
+
+.footer-landing i.fab {
+  color: #6c63ff;
+  font-size: 40px;
+}
+
+.footer-landing a:hover i.fab {
+  color: #FFFFFF;
+}
+
+.footer-landing p {
+  color: #FFFFFF;
+}
+
+.footer-landing i.fas {
+  color: #e21616;
+}
+
+.footer-landing span {
+  color: #e21616;
+  font-weight: bold;
+}
